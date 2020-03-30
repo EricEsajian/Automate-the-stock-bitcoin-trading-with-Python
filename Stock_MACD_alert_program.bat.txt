@@ -1,0 +1,1 @@
+@py.exe C:\\Automate the stock & bitcoin trading with Python\\Stock_MACD_alert_program.py %*
